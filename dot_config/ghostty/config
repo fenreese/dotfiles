@@ -1,0 +1,20 @@
+# general
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = false
+
+# shell
+shell-integration-features = no-cursor
+
+# cursor
+cursor-style = bar
+
+# colours/fonts
+theme = catppuccin-mocha
+font-size = 10
+font-family = VictorMono Nerd Font
+
+# Linux 
+gtk-titlebar = false
+window-inherit-font-size = false
+gtk-wide-tabs = false 
